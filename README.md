@@ -3,7 +3,7 @@
 # Overview
 On August 3, 2015 the [Clean Power Plan](http://www2.epa.gov/cleanpowerplan/clean-power-plan-existing-power-plants) was finalized by the U.S. Environmental Protection Agency.  This was accompanied by both celebration and controversy.  The coal industry in particular is quite concerned over the impacts that this may have on their industry.  
 
-The US states differ considerably in terms of how much coal they produce, and how much they use for electricity generation.  This visualization allows you to explore the web of dependencies between both the production and consumption of coal.
+The US states differ considerably in terms of how much coal they mine and how much they use for electricity generation.  This visualization allows you to explore the web of dependencies between both the mining and consumption of coal.
 
 ![Visualization of all US Data](https://raw.githubusercontent.com/cbdavis/Visualizing-Shipments-from-Coal-Mines-to-US-Power-Plants/master/images/ScreenshotWholeUS.png)
 *Exports from Wyoming dominate the landscape, with a much lesser amount coming from Appalachia.*
