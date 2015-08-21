@@ -22,8 +22,7 @@ The US states differ considerably in terms of how much coal they produce, and ho
 * [Data on mines](http://catalog.data.gov/dataset/mines-ae135) and their locations is from the U.S. Department of Labor Mine Safety and Health Administration
 * [Power plant coordinates](http://www.eia.gov/electricity/data/eia860/) sourced from EIA Form 860
 * [Shipments from coal mines to power plants](http://www.eia.gov/electricity/data/eia923/) sourced from EIA form 923
-
-Map icons are sourced from the [Maps Icons Collection](https://mapicons.mapsmarker.com)
+* Map icons are sourced from the [Maps Icons Collection](https://mapicons.mapsmarker.com)
 
 # Running the Source Code
 Make sure to open this as a project in [RStudio](https://www.rstudio.com/) as this will take care of all path issues.  The main file to run is `CreateVisualization.R`, which will call the rest of the code.  Make sure that you have the specified libraries installed, and everything should work out of the box, with a new US-Coal-Mines-and-Powerplants.kmz being generated.
