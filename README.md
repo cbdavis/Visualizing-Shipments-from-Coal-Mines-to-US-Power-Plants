@@ -23,6 +23,8 @@ The US states differ considerably in terms of how much coal they produce, and ho
 * [Power plant coordinates](http://www.eia.gov/electricity/data/eia860/) sourced from EIA Form 860
 * [Shipments from coal mines to power plants](http://www.eia.gov/electricity/data/eia923/) sourced from EIA form 923
 
+# Running the Source Code
+Make sure to open this as a project in [RStudio](https://www.rstudio.com/) as this will take care of all path issues.  The main file to run is `CreateVisualization.R`, which will call the rest of the code.  Make sure that you have the specified libraries installed, and everything should work out of the box.  
 
 
 
