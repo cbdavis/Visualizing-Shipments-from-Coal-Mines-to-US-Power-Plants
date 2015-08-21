@@ -12,7 +12,10 @@ The US states differ considerably in terms of how much coal they produce, and ho
 
 *Coal-fired power plants in Alabama source much of their coal from local mines.  On the horizon, Wyoming can be seen with its coal exports to the rest of the nation.*
 
-![](https://raw.githubusercontent.com/cbdavis/Visualizing-Shipments-from-Coal-Mines-to-US-Power-Plants/master/images/FilterByFolderOrPlacemark.png)
+![](https://raw.githubusercontent.com/cbdavis/Visualizing-Shipments-from-Coal-Mines-to-US-Power-Plants/master/images/FilterByFolderOrPlacemark.png)  
+
+
+  
 *By selecting folders in the sidebar you can see the destinations for all the coal mined within a state or all the origins for all the coal consumed by power plants within a state.  You can make further subselections on individual mines or power plants.*
 
 #Source Data
