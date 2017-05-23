@@ -18,7 +18,7 @@ The US states differ considerably in terms of how much coal they mine and how mu
   
 *By selecting folders in the sidebar you can see the destinations for all the coal mined within a state or all the origins for all the coal consumed by power plants within a state.  You can make further subselections on individual mines or power plants.*
 
-#Source Data
+# Source Data
 The visualization is based on shipment data from 2013 and is constructed using the following sources:
 
 * [Data on mines](http://catalog.data.gov/dataset/mines-ae135) and their locations is from the U.S. Department of Labor Mine Safety and Health Administration
