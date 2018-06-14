@@ -30,7 +30,7 @@ The visualization is based on shipment data from 2013 and is constructed using t
 Make sure to open this as a project in [RStudio](https://www.rstudio.com/) as this will take care of all path issues.  The main file to run is `CreateVisualization.R`, which will call the rest of the code and download the data directly from the websites of the various government agencies.  Make sure that you have the specified libraries installed, and everything should work out of the box, with a new `US-Coal-Mines-and-Powerplants.kmz` being generated.
 
 # Questions, Comments, Suggestions
-I can be reached at c.b.davis@rug.nl
+I can be reached at chris@cbdavis.org
 
 
 
