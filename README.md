@@ -21,7 +21,7 @@ The US states differ considerably in terms of how much coal they mine and how mu
 # Source Data
 The visualization is based on shipment data from 2013 and is constructed using the following sources:
 
-* [Data on mines](http://catalog.data.gov/dataset/mines-ae135) and their locations is from the U.S. Department of Labor Mine Safety and Health Administration
+* [Data on mines](https://catalog.data.gov/dataset/mines-9f12c) and their locations is from the U.S. Department of Labor Mine Safety and Health Administration
 * [Power plant coordinates](http://www.eia.gov/electricity/data/eia860/) sourced from EIA Form 860
 * [Shipments from coal mines to power plants](http://www.eia.gov/electricity/data/eia923/) sourced from EIA form 923
 * Map icons are sourced from the [Maps Icons Collection](https://mapicons.mapsmarker.com)
